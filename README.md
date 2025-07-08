@@ -10,6 +10,8 @@ This website was built using HTML, SCSS and JavaScript. It uses the [QR Code API
 
 - Longer texts or URLS (over 300 characters) may cause issues with older scanners.
 
+![QR Code Generator Webpage Preview](https://i.imgur.com/7wjlfUV.png)
+
 ## Deployment
 
 Check out the live website here: https://nathandallas.github.io/qr-code-generator/
